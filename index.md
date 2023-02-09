@@ -1,4 +1,4 @@
-<img src="photo/image17.png" style="width:0.96354in;height:0.53845in" />
+(/photo/image17.png)
 
 **How to Find Professor Cooke’s Office from PICHO 246**
 
