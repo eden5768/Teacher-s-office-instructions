@@ -1,4 +1,4 @@
-(/photo/image17.png)
+![image caption](/photo/image17.png)
 
 **How to Find Professor Cooke’s Office from PICHO 246**
 
@@ -21,7 +21,7 @@ location</u>](https://goo.gl/maps/QshF7oeVnSQe1MeX8)
 
 1.2 - Select TWC 401/501 as seen in image #.
 
-<img src="photo/image22.png" style="width:2.20313in;height:1.53228in" />
+![image caption](photo/image22.png)
 
 1.3 - Click on the syllabus icon on the left hand side of the screen.
 
