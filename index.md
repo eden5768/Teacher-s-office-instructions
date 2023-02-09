@@ -25,7 +25,7 @@ location</u>](https://goo.gl/maps/QshF7oeVnSQe1MeX8)
 
 1.3 - Click on the syllabus icon on the left hand side of the screen.
 
-<img src="photo/image26.png" style="width:1.56771in;height:1.64697in" />
+![]<img src="photo/image26.png" style="width:1.56771in;height:1.64697in" />
 
 1.4 - Click on the link next to the text that says “Here is the course”.
 
