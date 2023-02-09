@@ -21,7 +21,7 @@ location</u>](https://goo.gl/maps/QshF7oeVnSQe1MeX8)
 
 1.2 - Select TWC 401/501 as seen in image #.
 
-![image caption](photo/image22.png)
+![](photo/image22.png)
 
 1.3 - Click on the syllabus icon on the left hand side of the screen.
 
