@@ -1,4 +1,4 @@
-![](photo/image17.png)
+![My Images](photo/image17.png)
 
 **How to Find Professor Cooke’s Office from PICHO 246**
 
